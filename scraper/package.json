@@ -1,0 +1,7 @@
+{
+  "name": "promo-radar-scraper",
+  "private": true,
+  "type": "module",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"playwright": "1.55.0"}
+}
